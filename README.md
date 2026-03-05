@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Krishna
 
-<!--
-**krishna-appy/krishna-appy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer passionate about building scalable applications and learning modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently working on **C++ Projects**
+- 🌱 I’m currently learning **Full Stack Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **C++, Python, Web Development**
+- ⚡ Fun fact: I enjoy solving coding problems and building useful tools.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C++
+- Python
+
+**Tools**
+- Git
+- GitHub
+- VS Code
