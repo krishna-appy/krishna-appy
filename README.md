@@ -1,25 +1,20 @@
-# Hi there 👋 I'm Krishna
+# Hi 👋 I'm Krishna
 
-💻 Software Engineer passionate about building scalable applications and learning modern technologies.
+💻 Software Engineer interested in building scalable applications and learning modern technologies.
 
----
+## 🚀 About
 
-## 🚀 About Me
-- 🔭 I’m currently working on **C++ Projects**
-- 🌱 I’m currently learning **Full Stack Development**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **C++, Python, Web Development**
-- ⚡ Fun fact: I enjoy solving coding problems and building useful tools.
+* Working on **C++ projects**
+* Learning **System Design and Full Stack Development**
+* Open to **Open Source collaboration**
+* Ask me about **C++, Python, and Web Development**
 
----
+## 🧰 Tech Stack
 
-## 🛠️ Tech Stack
+* **Languages:** C++, Python, JavaScript
+* **Frameworks:**
+* **Tools:** Git, GitHub, Docker, Linux, VS Code
 
-**Languages**
-- C++
-- Python
+## 🌐 Portfolio
 
-**Tools**
-- Git
-- GitHub
-- VS Code
+👉 https://github.com/krishna-appy
